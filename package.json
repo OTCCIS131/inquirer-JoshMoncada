@@ -1,0 +1,23 @@
+{
+  "name": "inquirer-joshmoncada",
+  "version": "1.0.0",
+  "description": "inquirer-JoshMoncada",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OTCCIS131/inquirer-JoshMoncada.git"
+  },
+  "author": "Josh Moncada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OTCCIS131/inquirer-JoshMoncada/issues"
+  },
+  "homepage": "https://github.com/OTCCIS131/inquirer-JoshMoncada#readme",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "inquirer": "^3.3.0"
+  }
+}
